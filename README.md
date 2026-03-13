@@ -1,2 +1,4 @@
 # gitdemo
-Learning about git.
+Learning about git. 
+<br>
+This is my first repository.
